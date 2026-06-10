@@ -1,0 +1,11 @@
+
+streamlit
+langchain
+langgraph
+langchain-openai
+langsmith
+faiss-cpu
+python-dotenv
+tenacity
+tiktoken
+langchain-community
